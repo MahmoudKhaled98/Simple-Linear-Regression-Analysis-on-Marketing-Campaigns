@@ -14,6 +14,7 @@ The dataset contains information about marketing campaigns across various platfo
 - [Step 3: Model Building](#step-3-model-building)
 - [Step 4: Results and Evaluation](#step-4-results-and-evaluation)
 - [Conclusion](#conclusion)
+- [How to Run](#how-to-run)
 - [References](#references)
 
 ## Introduction
